@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: grid;
+    border: 2px solid black;
+    margin: auto;
+    width: 26%;
+    height: 50vh;
+    background-color:grey;
+    border-radius: 10px;
+}
+input{
+  border-radius: 10px;
+  margin: 2px 5px;
+  font-size: 30px;
+}
+#screen{
+    margin: auto;
+}
+button{
+    background-color: black;
+    border: 3px solid white;
+    color: black;
+    text-align: center;
+    width: 76px;
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+}
